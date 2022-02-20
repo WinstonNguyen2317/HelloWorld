@@ -1,6 +1,7 @@
-﻿namespace HelloWorld
+﻿using System;
+namespace HelloWorld
 {
-    class hello
+    class Hello
     {
         static void Main(string[] args)
         {
